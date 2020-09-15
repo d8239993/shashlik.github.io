@@ -9,5 +9,5 @@ Disallow: /tilda/product*
 Disallow: /tilda/event*
 Disallow: /*_escaped_fragment_*
 Disallow:
-Sitemap: http://shashlik52.tilda.ws/sitemap.xml
-Host: shashlik52.tilda.ws
+Sitemap: http://project2922688.tilda.ws/sitemap.xml
+Host: project2922688.tilda.ws
