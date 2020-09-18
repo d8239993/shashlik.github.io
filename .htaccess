@@ -3,9 +3,6 @@ ErrorDocument 404 /404.html
 
 RewriteEngine On
 
-RewriteCond %{REQUEST_FILENAME} /robots.txt
-RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
-RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
 RewriteRule ^shashlik52$ page12570270.html [NC]
 RewriteRule ^shashlik52/$ page12570270.html [NC]
 
